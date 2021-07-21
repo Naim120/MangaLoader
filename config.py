@@ -1,7 +1,4 @@
-import os
-
-class Config(object):
-    APP_ID = int(os.environ['APP_ID'])
-    API_HASH = os.environ['API_HASH']
-    BOT_TOKEN = os.environ['BOT_TOKEN']
-    OWNER_ID = int(os.environ['OWNER_ID'])
+    APP_ID = "1492128"
+    API_HASH = "496a1aab7943406f28e3de49fff16ea2"
+    BOT_TOKEN = "1919383263:AAEBphP3wSa0SYw8QtHsZycOqdrWqjhAKaQ"
+    OWNER_ID = "1185346119"
